@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SchedulerLocalizerExample/Form1.cs)
+<!-- default file list end -->
 # How to localize WinForms Scheduler UI using the Localizer class descendant
 
 
