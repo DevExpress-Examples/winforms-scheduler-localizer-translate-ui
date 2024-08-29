@@ -915,8 +915,8 @@
   <data name="edtStartDate.Properties.CalendarTimeProperties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <assembly alias="DevExpress.XtraEditors.v17.1" name="DevExpress.XtraEditors.v17.1, Version=17.1.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <assembly alias="DevExpress.XtraEditors.v24.2" name="DevExpress.XtraEditors.v24.2, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -928,7 +928,7 @@
   <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>DateTime</value>
   </data>
   <data name="edtStartDate.Properties.CalendarTimeProperties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -949,7 +949,7 @@
   <data name="edtStartDate.Properties.CalendarTimeProperties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="edtStartDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="edtStartDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtStartDate.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -961,7 +961,7 @@
   <data name="edtStartDate.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtStartDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtStartDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>DateTime</value>
   </data>
   <data name="edtStartDate.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -991,7 +991,7 @@
   <data name="tbLocation.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="tbLocation.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="tbLocation.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="tbLocation.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1003,7 +1003,7 @@
   <data name="tbLocation.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="tbLocation.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="tbLocation.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>None</value>
   </data>
   <data name="tbLocation.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1033,7 +1033,7 @@
   <data name="edtStartTime.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtStartTime.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="edtStartTime.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtStartTime.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1042,7 +1042,7 @@
   <data name="edtStartTime.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtStartTime.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtStartTime.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>DateTime</value>
   </data>
   <data name="edtStartTime.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1090,7 +1090,7 @@
   <data name="edtEndDate.Properties.CalendarTimeProperties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1102,7 +1102,7 @@
   <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>DateTime</value>
   </data>
   <data name="edtEndDate.Properties.CalendarTimeProperties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1123,7 +1123,7 @@
   <data name="edtEndDate.Properties.CalendarTimeProperties.NullValuePromptShowForEmptyValue" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="edtEndDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="edtEndDate.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtEndDate.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1135,7 +1135,7 @@
   <data name="edtEndDate.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtEndDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtEndDate.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>DateTime</value>
   </data>
   <data name="edtEndDate.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1165,7 +1165,7 @@
   <data name="edtEndTime.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtEndTime.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="edtEndTime.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtEndTime.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1174,7 +1174,7 @@
   <data name="edtEndTime.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtEndTime.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtEndTime.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>DateTime</value>
   </data>
   <data name="edtEndTime.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1237,8 +1237,8 @@
   <data name="edtResource.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <assembly alias="DevExpress.Data.v17.1" name="DevExpress.Data.v17.1, Version=17.1.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="edtResource.Properties.GlyphAlignment" type="DevExpress.Utils.HorzAlignment, DevExpress.Data.v17.1">
+  <assembly alias="DevExpress.Data.v24.2" name="DevExpress.Data.v24.2, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="edtResource.Properties.GlyphAlignment" type="DevExpress.Utils.HorzAlignment, DevExpress.Data.v24.2">
     <value>Near</value>
   </data>
   <data name="edtResource.Properties.NullValuePrompt" xml:space="preserve">
@@ -1256,7 +1256,7 @@
   <data name="edtResources.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtResources.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="edtResources.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="edtResources.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1268,7 +1268,7 @@
   <data name="edtResources.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="edtResources.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="edtResources.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>None</value>
   </data>
   <data name="edtResources.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
@@ -1295,7 +1295,7 @@
   <data name="edtResources.ResourcesCheckedListBoxControl.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="edtResources.ResourcesCheckedListBoxControl.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v17.1">
+  <data name="edtResources.ResourcesCheckedListBoxControl.AllowHtmlTextInToolTip" type="DevExpress.Utils.DefaultBoolean, DevExpress.Data.v24.2">
     <value>Default</value>
   </data>
   <data name="edtResources.ResourcesCheckedListBoxControl.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -1322,8 +1322,8 @@
   <data name="edtResources.ResourcesCheckedListBoxControl.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <assembly alias="DevExpress.Utils.v17.1" name="DevExpress.Utils.v17.1, Version=17.1.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="edtResources.ResourcesCheckedListBoxControl.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v17.1">
+  <assembly alias="DevExpress.Utils.v24.2" name="DevExpress.Utils.v24.2, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="edtResources.ResourcesCheckedListBoxControl.ToolTipIconType" type="DevExpress.Utils.ToolTipIconType, DevExpress.Utils.v24.2">
     <value>None</value>
   </data>
   <data name="edtResources.ResourcesCheckedListBoxControl.ToolTipTitle" xml:space="preserve">
@@ -1350,7 +1350,7 @@
   <data name="chkAllDay.Properties.DisplayValueUnchecked" xml:space="preserve">
     <value />
   </data>
-  <data name="chkAllDay.Properties.GlyphVerticalAlignment" type="DevExpress.Utils.VertAlignment, DevExpress.Data.v17.1">
+  <data name="chkAllDay.Properties.GlyphVerticalAlignment" type="DevExpress.Utils.VertAlignment, DevExpress.Data.v24.2">
     <value>Default</value>
   </data>
   <data name="chkAllDay.Size" type="System.Drawing.Size, System.Drawing">
@@ -1365,7 +1365,7 @@
   <data name="tbSubject.Properties.AutoHeight" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="tbSubject.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v17.1">
+  <data name="tbSubject.Properties.Mask.AutoComplete" type="DevExpress.XtraEditors.Mask.AutoCompleteType, DevExpress.XtraEditors.v24.2">
     <value>Default</value>
   </data>
   <data name="tbSubject.Properties.Mask.BeepOnError" type="System.Boolean, mscorlib">
@@ -1377,7 +1377,7 @@
   <data name="tbSubject.Properties.Mask.IgnoreMaskBlank" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="tbSubject.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v17.1">
+  <data name="tbSubject.Properties.Mask.MaskType" type="DevExpress.XtraEditors.Mask.MaskType, DevExpress.XtraEditors.v24.2">
     <value>None</value>
   </data>
   <data name="tbSubject.Properties.Mask.PlaceHolder" type="System.Char, mscorlib" xml:space="preserve">
