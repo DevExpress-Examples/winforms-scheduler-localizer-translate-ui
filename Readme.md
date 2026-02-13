@@ -28,7 +28,7 @@ This example shows how to create a custom localizer object ([SchedulerLocalizer
 * [Localizing WinForms Controls with Localizer Objects](https://docs.devexpress.com/WindowsForms/1866/build-an-application/localization/localizing-winforms-controls-via-localizer-objects)
 * [Localizing WinForms Controls with Satellite Resource Assemblies](https://docs.devexpress.com/WindowsForms/5755/build-an-application/localization/localizing-winforms-controls-via-satellite-resource-assemblies)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-localizer-translate-ui&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-localizer-translate-ui&~~~was_helpful=no)
 
